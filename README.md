@@ -85,7 +85,7 @@ Self-hosted ticketing software and shared inboxes ideal for engineering teams, p
 
 *The table below is sorted descending by GitHub stargazers count.*
 
-| Project | Star Count Badge | Primary Tech Stack | License | Highlights & Architecture |
+| Project | Stars_Count Badge | Primary Tech Stack | License | Highlights & Architecture |
 |:---|:---:|:---:|:---:|:---|
 | **[Chatwoot](https://github.com/chatwoot/chatwoot)** | [![Stars](https://img.shields.io/github/stars/chatwoot/chatwoot?style=social&color=white)](https://github.com/chatwoot/chatwoot/stargazers) | Ruby on Rails, Vue.js, PostgreSQL | AGPL-3.0 | **Top open-source alternative to Intercom & Zendesk.** Modern omnichannel customer engagement suite with live chat, email, WhatsApp, Facebook, Instagram, and Telegram intake. Clean agent dashboard and mobile apps. |
 | **[UVdesk](https://github.com/uvdesk/community-skeleton)** | [![Stars](https://img.shields.io/github/stars/uvdesk/community-skeleton?style=social&color=white)](https://github.com/uvdesk/community-skeleton/stargazers) | PHP, Symfony, MySQL | MIT | **Customer portal & eCommerce helpdesk.** Community skeleton focusing on ticket management, multi-agent dispatch, customer self-service portals, and modular eCommerce connectors (Magento, WooCommerce, Shopify). |
